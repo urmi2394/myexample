@@ -6,6 +6,7 @@ public class GitFile {
 
         System.out.println("hello git");
         System.out.println("changed gitfile");
+        System.out.println("modified file");
 
     }
 
